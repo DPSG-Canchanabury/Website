@@ -1,15 +1,15 @@
 # Site settings
 title: DPSG Canchanabury
-email: your-email@domain.com
+email: info@dpsg-canchanabury.de
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
-lang: en-US
+  Wir sind der Stamm Canchanabury und gehören zur Deutschen Pfadfinderschaft Sankt Georg.
+  Verortet sind wir in Bochum im Ortsteil Langendreer. Hier tragen wir zur Jugendarbeit bei, indem wir neben
+lang: de-DE
 
 baseurl: "/Website" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: https://DPSG-Canchanabury.github.io/Website # the base hostname & protocol for your site
+git_address: https://github.com/DPSG-Canchanabury/Website
+git_edit_address: https://github.com/DPSG-Canchanabury/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
