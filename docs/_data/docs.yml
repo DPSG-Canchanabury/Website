@@ -1,10 +1,10 @@
-- title: Kinder und Jugend Stufen
+- title: Getting Started
   docs:
   - home
   - themes
   - customization
 
-- title: Leiter und Mitarbeiter
+- title: Examples
   docs:
   - cheatsheet
   - font-awesome
