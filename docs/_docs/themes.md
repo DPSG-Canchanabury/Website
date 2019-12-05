@@ -1,5 +1,5 @@
 ---
-title: Themes
+title: Jungpfadfinder
 permalink: /docs/themes/
 ---
 
