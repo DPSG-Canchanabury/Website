@@ -4,10 +4,8 @@
   - themes
   - customization
 
-
-
-
 - title: Examples
   docs:
   - cheatsheet
   - font-awesome
+  - bootstrap
