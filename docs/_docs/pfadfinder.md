@@ -1,6 +1,6 @@
 ---
 title: Pfadfinder
-permalink: /docs/customization/
+permalink: /docs/pfadfinder/
 ---
 
 Pfadi
