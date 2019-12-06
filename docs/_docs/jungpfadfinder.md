@@ -1,6 +1,6 @@
 ---
 title: Jungpfadfinder
-permalink: /docs/themes/
+permalink: /docs/jungpfadfinder/
 ---
 
 Juffi
