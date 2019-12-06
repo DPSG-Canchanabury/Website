@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-permalink: /about/
+permalink: /impressum/
 ---
 DPSG Canchanabury
 Kaltehardtstr. 98
