@@ -15,7 +15,7 @@
             <ul class="nav navbar-nav">
                 <li {% if page.sectionid=='docs' %} class="active" {% endif %}><a href="{{ "/docs/home/" | relative_url }}">Stufen</a></li>
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | relative_url }}">Neuigkeiten</a></li>
-                <li {% if page.sectionid=='impressum' %} class="active" {% endif %}><a href="{{ "/pages/impressum" | prepend: site.baseurl }}">Impressum</a></li>
+                <li {% if page.sectionid=='impressum' %} class="active" {% endif %}><a href="{{ "/pages/impressum/" | relative_url }}">Impressum</a></li>
             </ul>
             <div class="navbar-right">
                 <form class="navbar-form navbar-left">
