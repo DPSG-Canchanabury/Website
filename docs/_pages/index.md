@@ -1,7 +1,7 @@
 ---
 title: Impressum
 permalink: /pages/home/
-redirect_from: /docs/index.html
+redirect_from: /pages/index.html
 ---
 
 Wös
