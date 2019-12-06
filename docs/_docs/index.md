@@ -1,6 +1,6 @@
 ---
 title: Wölflinge
-permalink: /docs/home/
+permalink: /docs/wölflinge/
 redirect_from: /docs/index.html
 ---
 
