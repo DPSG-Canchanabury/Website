@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <p style="text-align: center;">Impressum</p>
+title: Impressum
 permalink: /impressum/
 ---
 
