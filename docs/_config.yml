@@ -5,10 +5,10 @@ description: >
   
 lang: de-DE
 
-baseurl: "/Website" # the subpath of your site, e.g. /blog/
-url: https://dpsg-canchanabury.de # the base hostname & protocol for your site
-git_address: https://github.com/DPSG-Canchanabury/Website
-git_edit_address: https://github.com/DPSG-Canchanabury/jekyll-doc-theme/blob/gh-pages
+baseurl: "/Website/" # the subpath of your site, e.g. /blog/
+#url: https://dpsg-canchanabury.de # the base hostname & protocol for your site
+#git_address: https://github.com/DPSG-Canchanabury/Website
+#git_edit_address: https://github.com/DPSG-Canchanabury/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
