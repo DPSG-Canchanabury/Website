@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Impressum
 permalink: /impressum/
 ---
 
-# Impressum
 
 <p>DPSG Canchanabury<br>
 Kaltehardtstr. 98<br>
