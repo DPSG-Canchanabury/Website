@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 
 permalink: /impressum/
 ---
 
@@ -12,4 +11,4 @@ Kaltehardtstr. 98
 
 Stammesvorstand Niklas Streier
 
-Info@dpsg-canchanabury.de
+<Info@dpsg-canchanabury.de>
