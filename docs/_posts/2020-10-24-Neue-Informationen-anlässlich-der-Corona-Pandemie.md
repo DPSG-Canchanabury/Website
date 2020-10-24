@@ -15,4 +15,5 @@ Gut Pfad
 Die Leiterrunde
 
 
-![Alt-Text](/assets/img/Corona_Rot.jpg "Corona Ampel")
+Corona Ampel
+![Alt-Text](/assets/img/Corona_Rot.jpg)
