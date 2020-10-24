@@ -15,5 +15,4 @@ Gut Pfad
 Die Leiterrunde
 
 
-Corona-Ampel
-<img src=“/assets/img/Corona_Rot.jpg“>
+![Alt-Text](/assets/img/Corona_Rot.jpg "Corona Ampel")
