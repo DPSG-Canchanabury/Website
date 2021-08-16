@@ -9,7 +9,7 @@ Liebe Eltern und Pfadfinder,
 
 in den vergangenen zwei Wochen hat das Wikinger-Sommerlager an der Jomsburg bei Kiel stattgefunden. Für die Pfadfinder gab es dabei viele spannende Aktionen zu erleben. So zum Beispiel eine Nachtwanderung, ein Ausflug nach Kiel, Workshops, Strandtage und vieles mehr! Dabei sind auch ein paar Photos entstanden...
 
-Der Aufnahmestopp bei den Jungpfadfindern gilt nun nicht mehr!
+Der Aufnahmestopp bei den Jungpfadfindern gilt nun nicht mehr und auch die Gruppenstunden finden wieder in Präsenz statt!
 
 Gut Pfad
 
