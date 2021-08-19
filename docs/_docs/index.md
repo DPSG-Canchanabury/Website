@@ -12,4 +12,4 @@ Wann?  Dienstags 18:15-19:15 Uhr
 
 Wo?  Trinity (Kaltehardtstr. 98, 44892 Bochum)
 
-![Alt-Text](/assets/img/wölflinge_logo.png)
+![Alt-Text](/assets/img/woelflinge_logo.jpg)
