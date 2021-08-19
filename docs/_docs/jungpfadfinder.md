@@ -10,3 +10,5 @@ Alter?  10-13 Jahre
 Wann?  Dienstags 18:00-19:00 Uhr
 
 Wo?  Gemeindehaus St. Marien (Alte BahnhofStraße 182, 44892 Bochum)
+
+![Alt-Text](/assets/img/juffis_logo.jpg)
