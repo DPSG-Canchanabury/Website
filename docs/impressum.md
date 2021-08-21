@@ -1,8 +1,10 @@
 ---
 layout: page
-title: <h2 style="margin-left: 40px;">Impressum</h2>
+title: 
 permalink: /impressum/
 ---
+
+<h2 style="margin-left: 40px;">Impressum</h2>
 
 <h2 style="margin-left: 40px;"><span style="font-size:16px;">DPSG Canchanabury<br />
 Kaltehardtstr. 98<br />
