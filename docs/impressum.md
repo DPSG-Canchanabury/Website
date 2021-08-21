@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ggghg
+title:     
 permalink: /impressum/
 ---
 
