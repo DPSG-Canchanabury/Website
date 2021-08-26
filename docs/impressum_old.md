@@ -1,8 +1,4 @@
----
-layout: page
-title:     
-permalink: /impressum/
----
+
 
 <h2 style="margin-left: 40px;">Impressum</h2>
 
