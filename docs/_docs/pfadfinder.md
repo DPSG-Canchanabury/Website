@@ -11,6 +11,6 @@ Wann?  Montags 18:30-20:00 Uhr
 
 Wo?  Trinity (Kaltehardtstr. 98, 44892 Bochum)
 
-Leiter: Niklas Streier, Rebecca Bardos
+Leiter: Niklas Streier und Rebecca Bardos
 
 ![Alt-Text](/assets/img/pfadis_logo.jpg)
