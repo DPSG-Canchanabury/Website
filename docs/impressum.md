@@ -13,7 +13,7 @@ Kaltehardtstr. 98<br>
 Niklas Streier<br>
 Patricia Pyrka<br>
 </p><p><strong>Kontakt:</strong> <br>
-E-Mail: <a href='mailto:Info@dpsg-canchanabury.de'>Info@dpsg-canchanabury.de</a></br></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
+E-Mail: <a href='mailto:Info@dpsg-canchanabury.de'>Info@dpsg-canchanabury.de</a></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 Niklas Streier <br> 
 Kaltehardtstr. 98<br> 
 44892 Bochum <br></p> <p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Inhalte</strong><br><br>
