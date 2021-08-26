@@ -10,6 +10,6 @@ permalink: /impressum/
 <span style="text-decoration: underline;">Angaben:</span><br/>
 DPSG Canchanabury<br/>
 Niklas Streier & Patricia Pyrka (Stammesvorstand)<br/>
-Kaltehardtstr. 98<br/>
+Kaltehardtstr. 98, 44892 Bochum<br/>
 <span style="text-decoration: underline;">Kontakt:</span><br/>
 <a href="mailto:Info@dpsg-canchanabury.de">Info@dpsg-canchanabury.de</a></span></h2>
