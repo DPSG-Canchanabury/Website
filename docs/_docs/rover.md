@@ -12,3 +12,4 @@ Wann?  Nach Absprache
 Wo?  Trinity (Kaltehardtstr. 98, 44892 Bochum)
 
 ![Alt-Text](/assets/img/rover_logo.jpg)
+<a href="https://dpsg.de/de/vorlagen">(Bildquelle)</a>
