@@ -14,3 +14,4 @@ Wo?  Trinity (Kaltehardtstr. 98, 44892 Bochum)
 Leiter: Niklas Streier und Rebecca Bardos
 
 ![Alt-Text](/assets/img/pfadis_logo.jpg)
+<a href="https://dpsg.de/de/vorlagen">(Bildquelle)</a>
