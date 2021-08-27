@@ -17,3 +17,4 @@ Die Leiterrunde
 
 Corona Ampel
 ![Alt-Text](/assets/img/Corona_Rot.jpg)
+<a href="https://www.google.de/search?q=ampel+grafik&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiVkNf1pdHyAhVC2KQKHQD4BIoQ_AUoAXoECAEQAw&biw=1366&bih=921">(Bildquelle [modifiziert])</a>
