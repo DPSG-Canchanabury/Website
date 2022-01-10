@@ -5,8 +5,6 @@ date:   2022-01-11 15:30:00
 author: Dara L. Hassan
 ---
 
-<div style="width: 670px;"><script type="text/javascript" src="https://www.openpetition.de/widget/petition/das-freibad-langendreer-darf-nicht-baden-gehen"></script></div>
-
 Liebe Eltern und Pfadfinder, 
 
 der Rat der Stadt Bochum hat entschieden das Freibad in Langendreer schließen zu wollen. Diese unserer Ansicht nach rein wirtschaftlich begründete Entscheidung nimmt der Jugend 
@@ -34,8 +32,10 @@ var OPWIDGET = {
 <script src="https://www.openpetition.de/javascript/widget.js"></script>
 <noscript>Bitte aktivieren Sie JavaScript und laden die Seite neu.</noscript>
 
-<p><br></p>
-
 Corona Ampel
 ![Alt-Text](/assets/img/Corona_Gelb.jpg)
 <a href="https://www.google.de/search?q=ampel+grafik&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiVkNf1pdHyAhVC2KQKHQD4BIoQ_AUoAXoECAEQAw&biw=1366&bih=921">(Bildquelle [modifiziert])</a>
+
+<p><br></p>
+
+<div style="width: 670px;"><script type="text/javascript" src="https://www.openpetition.de/widget/petition/das-freibad-langendreer-darf-nicht-baden-gehen"></script></div>
