@@ -7,9 +7,9 @@ author: Dara L. Hassan
 
 Liebe Eltern und Pfadfinder, 
 
-der Rat der Stadt Bochum hat entschieden das Freibad in Langendreer zu schließen. Diese unserer Ansicht nach rein wirtschaftlich begründete Entscheidung ist nimmt 
-der Jugend einen wichtigen Ort des Austausches und Schwimmen lernens. Insbesondere im Angesicht der Corona folgen sollte die öffentliche Hand ein vielfältiges Freizeitangebot 
-für Kinder und Jugendliche eher ausbauen, statt es zu verringern. Daher unterstützen wir eine Bürgerinitiative, welche sich gegen eine Schließung stark macht und möchten auch 
+der Rat der Stadt Bochum hat entschieden das Freibad in Langendreer zu schließen. Diese unserer Ansicht nach rein wirtschaftlich begründete Entscheidung nimmt der Jugend 
+einen wichtigen Ort des Austausches und Schwimmen lernens. Insbesondere im Angesicht der Corona folgen sollte die öffentliche Hand ein vielfältiges Freizeitangebot für 
+Kinder und Jugendliche eher ausbauen, statt es zu verringern. Daher unterstützen wir eine Bürgerinitiative, welche sich gegen eine Schließung stark macht und möchten auch 
 euch ans Herz legen die Petition mit eurer Unterschrift zu unterstützen!
 
 Gut Pfad
