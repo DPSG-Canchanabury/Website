@@ -6,7 +6,7 @@ permalink: /impressum/
 
 <h2 style="margin-left: 40px;">
 <div class='impressum'><h1>Impressum</h1>
-<span style="font-size:16px;"><p>Angaben gemäß § 5 TMG</p><p>Dara L. Hassan <br> 
+<span style="font-size:16px;"><p>Angaben gemäß § 5 TMG</p><p>DPSG Stamm Canchanabury <br> 
 Kaltehardtstr. 98<br> 
 44892 Bochum <br> 
 </p><p> <strong>Vertreten durch: </strong><br>
@@ -14,7 +14,7 @@ Dara L. Hassan<br>
 Richard Seling<br>
 </p><p><strong>Kontakt:</strong> <br>
 E-Mail: <a href='mailto:info@dpsg-canchanabury.de'>Info@dpsg-canchanabury.de</a></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
-Dara L. Hassan <br> 
+DPSG Stamm Canchanabury <br> 
 Kaltehardtstr. 98<br> 
 44892 Bochum <br></p> <p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Inhalte</strong><br><br>
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.<br><br><strong>Haftung für Links</strong><br><br>
