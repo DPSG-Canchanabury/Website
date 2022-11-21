@@ -7,4 +7,4 @@ permalink: /docs/mitarbeiter/
 
 Bauer (bürgerlich Julian Peter)
 
-Felix Lindemann
+Rebecca Bardos
