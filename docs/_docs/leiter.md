@@ -5,18 +5,18 @@ permalink: /docs/leiter/
 
 
 
-Niklas Streier (Pfadfinderleiter und Stammesvorstand)
+Niklas Streier (Roverleiter)
 
-Marie Haskamp (Pfadfinderleiterin)
+Patricia Pyrka (Roverleiterin)
 
-Leon Drake (Jungpfadfinderleiter)
+Dara Hassan (Pfadfinderleiter und Stammesvorstand)
 
-Viola Wahle (Jungpfadfinderleiterin)
+Leon Drake (Pfadfinderleiter)
 
-Richard Seling (Jungpfadfinderleiter)
+Richard Seling (Jungpfadfinderleiter und Stammesvorstand)
 
-Dara Hassan (Wölflingsleiter und Kassenprüfer)
+Marie Haskamp (Jungpfadfinderleiterin und Kassenprüferin)
 
-Rebecca Bardos (Wölflingsleiterin)
+Viola Wahle (Wölflingsleiterin und Kassenführerin)
 
-Patricia Pyrka (Aushilfsleiterin und Stammesvorstand)
+Pascal Finke (Wölflingsleiter)
