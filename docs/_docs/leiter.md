@@ -16,5 +16,3 @@ Leon Drake (Pfadfinderleiter)
 Richard Seling (Jungpfadfinderleiter und Stammesvorstand)
 
 Viola Wahle (Wölflingsleiterin und Kassenführerin)
-
-Pascal Finke (Wölflingsleiter)
