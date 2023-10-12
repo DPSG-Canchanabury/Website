@@ -15,7 +15,7 @@ Leon Drake (Pfadfinderleiter)
 
 Richard Seling (Jungpfadfinderleiter und Stammesvorstand)
 
-Marie Haskamp (Jungpfadfinderleiterin und Kassenprüferin)
+Marie Haskamp (Kassenprüferin)
 
 Viola Wahle (Wölflingsleiterin und Kassenführerin)
 
