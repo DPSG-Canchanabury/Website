@@ -11,7 +11,7 @@ Wann?  Dienstags 18:00-19:00 Uhr
 
 Wo?  Gemeindehaus St. Marien (Alte Bahnhofstraße 182, 44892 Bochum)
 
-Leiter: Richard Seling
+Leiter: Richard Seling, Sarah Haskamp
 
 ![Alt-Text](/assets/img/juffis_logo.jpg)
 <a href="https://dpsg.de/de/vorlagen">(Bildquelle)</a>
