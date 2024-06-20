@@ -10,8 +10,7 @@ permalink: /impressum/
 Kaltehardtstr. 98<br> 
 44892 Bochum <br> 
 </p><p> <strong>Vertreten durch: </strong><br>
-Dara L. Hassan<br>
-Richard Seling<br>
+Viola Wahle<br>
 </p><p><strong>Kontakt:</strong> <br>
 E-Mail: <a href='mailto:info@dpsg-canchanabury.de'>Info@dpsg-canchanabury.de</a></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 DPSG Stamm Canchanabury <br> 
