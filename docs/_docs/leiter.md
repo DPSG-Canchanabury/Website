@@ -9,10 +9,12 @@ Niklas Streier (Roverleiter)
 
 Patricia Pyrka (Roverleiterin)
 
-Dara Hassan (Pfadfinderleiter und Stammesvorstand)
+Dara Hassan (Pfadfinderleiter)
 
 Leon Drake (Pfadfinderleiter)
 
-Richard Seling (Jungpfadfinderleiter und Stammesvorstand)
+Richard Seling (Jungpfadfinderleiter)
 
-Viola Wahle (Wölflingsleiterin und Kassenführerin)
+Sarah Haskamp (Jungpfadfinderleiterin)
+
+Viola Wahle (Wölflingsleiterin und Kuratin / StaVo)
