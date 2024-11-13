@@ -3,7 +3,7 @@ title: Jungpfadfinder
 permalink: /docs/jungpfadfinder/
 ---
 
-
+<span style="color:red">**Zur Zeit gilt ein Aufnahmestopp in der Wölflings- und Jungpfadfinderstufe aufgrund von Leitermangel.**</span>
 
 Alter?  10-13 Jahre
 
