@@ -4,7 +4,7 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-
+<span style="color:red">**Zur Zeit gilt ein Aufnahmestopp in der Wölflings- und Jungpfadfinderstufe aufgrund von Leitermangel.**</span>
 
 Alter?  7-10 Jahre
 
