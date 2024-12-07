@@ -9,4 +9,3 @@ Bauer (bürgerlich Julian Peter)
 
 Rebecca Bardos
 
-Marie Haskamp
