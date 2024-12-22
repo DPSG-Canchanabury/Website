@@ -5,10 +5,10 @@ permalink: /docs/leiter/
 
 
 
-Niklas Streier (Roverleiter)
+Niklas Streier 
 
-Patricia Pyrka (Roverleiterin)
+Patricia Pyrka 
 
-Leon Drake (Pfadfinderleiter)
+Leon Drake 
 
-Viola Wahle (Wölflingsleiterin und Kuratin / StaVo)
+Viola Wahle (Kuratin / StaVo)
