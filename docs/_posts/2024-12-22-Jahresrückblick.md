@@ -8,8 +8,10 @@ author: Patricia Pyrka
 Liebe Eltern und Pfadfinder*innen, 
 
 Ich nutze einmal die freie Zeit der Ferien dazu, mich ein wenig in die Website-Bearbeitung einzufuchsen. 
-Solltet Ihr also diesen Post sehen, dann hat es geklappt!
 Ziel ist es dieser Website hier mal wieder ein wenig mehr Leben einzuhauchen und euch auf dem Laufenden zu halten.
+
+Solltet Ihr also diesen Post sehen, dann hat es geklappt!
+
 
 
 Heute möchte ich euch also dazu einzuladen mit mir gemeinsam in mein Pfadfinderjahr 2024 zurückzublicken. 
