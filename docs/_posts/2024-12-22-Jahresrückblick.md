@@ -14,11 +14,12 @@ Solltet Ihr also diesen Post sehen, dann hat es geklappt!
 
 
 
-Heute möchte ich euch also dazu einzuladen mit mir gemeinsam in mein Pfadfinderjahr 2024 zurückzublicken. 
-Ganz selbstverständlich gibt es also ein Rewind.
+Heute möchte ich euch dazu einzuladen mit mir gemeinsam auf mein Pfadfinderjahr 2024 zurückzublicken. 
+Selbstverständlich gibt es also ein Rewind.
 
 Viel Spaß damit, sowie eine schöne Weihnachtszeit, einen guten Rutsch und gut Pfad wünscht
-Patricia 
+
+Pati
 
 ![Alt-Text](/assets/img/Rewind1.PNG)
 
