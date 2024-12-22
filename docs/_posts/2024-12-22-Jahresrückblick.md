@@ -50,5 +50,5 @@ Pati
 ![Alt-Text](/assets/img/Rewind14.PNG)
 
 ![Alt-Text](/assets/img/Rewind15.PNG)
-[![Alt-Text](/assets/images/Rewind15.PNG "Instagram")(https://www.instagram.com/dpsg_canchanabury/)]
+![Alt-Text](/assets/images/Rewind15.PNG "Instagram")(https://www.instagram.com/dpsg_canchanabury/)
 
