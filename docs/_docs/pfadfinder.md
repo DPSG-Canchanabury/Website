@@ -7,11 +7,11 @@ permalink: /docs/pfadfinder/
 
 Alter?  13-16 Jahre
 
-Wann?  Montags 18:30-20:00 Uhr
+Wann?  Dienstags 19:00-20:00 Uhr
 
-Wo?  Gemeindehaus St. Marien (Alte Bahnhofstraße 182, 44892 Bochum)
+Wo?  St. Marien (Alte Bahnhofstraße 182)
 
-Leiter: Dara Hassan und Leon Drake
+Leiter: Viola Wahle, Leon Drake, Niklas Streier, Patricia Pyrka
 
 ![Alt-Text](/assets/img/pfadis_logo.jpg)
 <a href="https://dpsg.de/de/vorlagen">(Bildquelle)</a>
