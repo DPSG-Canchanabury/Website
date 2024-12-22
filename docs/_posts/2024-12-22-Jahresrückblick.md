@@ -50,4 +50,4 @@ Pati
 ![Alt-Text](/assets/img/Rewind14.PNG)
 
 ![Alt-Text](/assets/img/Rewind15.PNG)
-<a href="https://www.instagram.com/dpsg_canchanabury/" target="_blank">Hier geht's mehr Bildern und Erinnerungen auf unserem Instagram!</a>
+<a href="https://www.instagram.com/dpsg_canchanabury/" target="_blank">Hier geht's zu mehr Bildern und Erinnerungen auf unserem Instagram!</a>
