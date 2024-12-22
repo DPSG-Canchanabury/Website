@@ -7,11 +7,11 @@ permalink: /docs/jungpfadfinder/
 
 Alter?  10-13 Jahre
 
-Wann?  Dienstags 18:00-19:00 Uhr
+Wann?  Dienstags 17:45-18:45 Uhr
 
-Wo?  Gemeindehaus St. Marien (Alte Bahnhofstraße 182, 44892 Bochum)
+Wo?  St. Marien (Alte Bahnhofstraße 182)
 
-Leiter: Richard Seling, Sarah Haskamp
+Leiter: Viola Wahle, Leon Drake, Niklas Streier, Patricia Pyrka
 
 ![Alt-Text](/assets/img/juffis_logo.jpg)
 <a href="https://dpsg.de/de/vorlagen">(Bildquelle)</a>
