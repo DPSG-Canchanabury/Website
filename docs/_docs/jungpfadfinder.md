@@ -7,11 +7,11 @@ permalink: /docs/jungpfadfinder/
 
 Alter?  10-13 Jahre
 
-Wann?  Dienstags 17:45-18:45 Uhr
+Wann?  Dienstags 18:00-19:00 Uhr
 
 Wo?  St. Marien (Alte Bahnhofstraße 182)
 
-Leiter: Viola Wahle, Leon Drake, Niklas Streier, Patricia Pyrka
+Leiter: Henrik Eisenberg und Daniel Putek
 
 ![Alt-Text](/assets/img/juffis_logo.jpg)
 <a href="https://dpsg.de/de/vorlagen">(Bildquelle)</a>
