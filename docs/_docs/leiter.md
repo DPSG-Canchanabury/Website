@@ -5,12 +5,19 @@ permalink: /docs/leiter/
 
 
 
-Niklas Streier 
+Henrik Eisenberg
 
 Patricia Pyrka 
 
 Leon Drake 
 
+Max 
+
+Lisa Eidmann
+
 Viola Wahle (Kuratin / StaVo)
 
-Henrik Eisenberg
+Hilfsleitende:
+
+Tiago Pires Fernandes und Daniel Putek
+Marc Seelbach (StaVo)
