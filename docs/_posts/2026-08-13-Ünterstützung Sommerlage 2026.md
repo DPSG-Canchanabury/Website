@@ -18,6 +18,6 @@ Miete Transporter und 9-Sitzer zu den günstigsten Preisen und hole dein Fahrzeu
 Den Transporter Carl kannst du bereits ab 29 € mieten. Für größere Vorhaben gibt es auch einen Transporter XL Carlos. 
 Für die verschiedenen Standorte kannst du ganz spontan und kurzfristig oder bis zu ein Jahr im Voraus online buchen. 
 Bezahle einfach bequem online und kautionsfrei. Das Fahrzeug kann rund um die Uhr über dein Kundenkonto oder telefonisch innerhalb unserer Geschäftszeiten von 8 - 20 Uhr abgeholt und zurück gegeben werden. 
-Günstig, schnell & unkompliziert – Transporter mieten bei CarlundCarla.de
+Günstig, schnell & unkompliziert – Transporter mieten bei <a href="https://carlundcarla.de/transporter-mieten-bochum." target="_blank">CarlundCarla.de</a>
 
-![Alt-Text](/assets/img/LogoCarlundCarla.jpg)
+<a href="https://carlundcarla.de/transporter-mieten-bochum." target="_blank">![Alt-Text](/assets/img/LogoCarlundCarla.jpg)</a>
