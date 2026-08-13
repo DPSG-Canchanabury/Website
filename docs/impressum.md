@@ -7,10 +7,10 @@ permalink: /impressum/
 <h2 style="margin-left: 40px;">
 <div class='impressum'><h1>Impressum</h1>
 <span style="font-size:16px;"><p>Angaben gemäß § 5 TMG</p><p>DPSG Stamm Canchanabury <br> 
-Kaltehardtstr. 98<br> 
+Alte Bahnhofstr. 182<br> 
 44892 Bochum <br> 
 </p><p> <strong>Vertreten durch: </strong><br>
-Viola Wahle<br>
+Marc Seelbach<br>
 </p><p><strong>Kontakt:</strong> <br>
 E-Mail: <a href='mailto:info@dpsg-canchanabury.de'>info@dpsg-canchanabury.de</a></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 DPSG Stamm Canchanabury <br> 
