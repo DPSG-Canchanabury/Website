@@ -20,4 +20,4 @@ Für die verschiedenen Standorte kannst du ganz spontan und kurzfristig oder bis
 Bezahle einfach bequem online und kautionsfrei. Das Fahrzeug kann rund um die Uhr über dein Kundenkonto oder telefonisch innerhalb unserer Geschäftszeiten von 8 - 20 Uhr abgeholt und zurück gegeben werden. 
 Günstig, schnell & unkompliziert – Transporter mieten bei CarlundCarla.de
 
-![Alt-Text](/assets/img/Logo CarlundCarla.gif)
+![Alt-Text](/assets/img/LogoCarlundCarla.jpg)
