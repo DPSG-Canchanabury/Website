@@ -11,5 +11,4 @@ Rebecca Bardos
 
 Niklas Streier
 
-Viola Wahle
 
