@@ -15,7 +15,6 @@ Max Hammerschmidt
 
 Lisa Eidmann
 
-Viola Wahle (Kuratin / StaVo)
 
 
 Hilfsleitende:
