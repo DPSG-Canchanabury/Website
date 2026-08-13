@@ -12,7 +12,7 @@ Für den Fall das sie einen Mietwagen benötigen sind Sie dort an der richtigen 
 
 Grüße Max
 
-https://CarlundCarla.de vereint für dich die Unabhängigkeit einer klassischen Transportervermietung mit der Flexibilität des Carsharings.
+<a href="Hier der Link: https://carlundcarla.de/transporter-mieten-bochum." target="_blank">CarlundCarla.de</a> vereint für dich die Unabhängigkeit einer klassischen Transportervermietung mit der Flexibilität des Carsharings.
 Miete Transporter und 9-Sitzer zu den günstigsten Preisen und hole dein Fahrzeug flexibel mit dem Smartphone ab.
 
 Den Transporter Carl kannst du bereits ab 29 € mieten. Für größere Vorhaben gibt es auch einen Transporter XL Carlos. 
